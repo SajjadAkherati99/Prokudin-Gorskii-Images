@@ -1,5 +1,5 @@
 # Prokudin-Gorskii-Images
-Here, you can see some screenshots from the developped game:
+you can see the result in the following figures:
 
 # Main Image
 <p align="center">
